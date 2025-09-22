@@ -1,1 +1,5 @@
-pip freeze > requirements.txt
+fastapi==0.100.0
+uvicorn==0.23.2
+SQLAlchemy==2.0.21
+pydantic==2.2.0
+
